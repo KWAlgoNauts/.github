@@ -1,6 +1,6 @@
 # 🚀 KWAlgoNauts
 
-> **KWAlgoNauts**는 **"Kwangwoon + Algorithm + Astronauts"**의 조합으로,  
+> **KWAlgoNauts**는 **"Kwangwoon + Algorithm + Astronauts"** 의 조합으로,  
 > 광운대 학생들이 알고리즘을 탐험하는 우주비행사처럼 **끊임없이 탐구하고 성장하는 스터디 그룹**입니다.  
 
 <br>
