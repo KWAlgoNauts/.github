@@ -3,7 +3,7 @@
 > **KWAlgoNauts**는 **"Kwangwoon + Algorithm + Astronauts"**의 조합으로,  
 > 광운대 학생들이 알고리즘을 탐험하는 우주비행사처럼 **끊임없이 탐구하고 성장하는 스터디 그룹**입니다.  
 
----
+<br>
 
 ## 📌 스터디 개요
 | 항목 | 내용 |
@@ -20,7 +20,7 @@
 
 | 이름  | GitHub 프로필 | 한 줄 소개 |
 |------|--------------|------------|
-| **오은진** | <image src="https://avatars.githubusercontent.com/u/115154546?v=4"> <br> [@eunjin4910](https://github.com/Eunjin03) | 프론트엔드 개발자 취업까지 달려봅시다 🔥🔥🔥|
+| <center> **오은진** </center>| <center><image width="150px" src="https://avatars.githubusercontent.com/u/115154546?v=4"/> <br> [@eunjin4910](https://github.com/Eunjin03) </center>| <center>프론트엔드 개발자 취업까지 달려봅시다 🔥🔥🔥</center>|
 |  |  |  |
 |  |  |  |
 |  |  |  |
