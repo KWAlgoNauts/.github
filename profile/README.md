@@ -20,10 +20,10 @@
 
 | 이름  | GitHub 프로필 | 한 줄 소개 |
 |------|--------------|------------|
-| <center> **오은진** </center>| <center><image width="150px" src="https://avatars.githubusercontent.com/u/115154546?v=4"/> <br> [@eunjin4910](https://github.com/Eunjin03) </center>| <center>프론트엔드 개발자 취업까지 달려봅시다 🔥🔥🔥</center>|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| <center> **오은진** </center>| <center><image width="100px" src="https://avatars.githubusercontent.com/u/115154546?v=4"/></center> <br> <center>[@eunjin4910](https://github.com/Eunjin03) </center>| <center>취업까지 달려봅시다 🔥🔥🔥</center>|
+| <center> **최세연** </center> | <center><image width="100px" src="https://avatars.githubusercontent.com/u/103797536?v=4"/></center> <br> <center>[@seyeon22](https://github.com/Eunjin03) </center> |  |
+| <center> **정다영** </center> | <center><image width="100px" src="https://avatars.githubusercontent.com/u/119166407?v=4"/></center> <br> <center>[@dayoung030303](https://github.com/Eunjin03) </center> |  |
+| <center> **임서연** </center> | <center><image width="100px" src="https://avatars.githubusercontent.com/u/102738436?v=4"/></center> <br> <center>[@seoyeon0103](https://github.com/Eunjin03) </center> |  |
 
 ---
 
