@@ -21,7 +21,7 @@
 | 이름  | GitHub 프로필 | 한 줄 소개 |
 |:------:|:--------------:|:------------:|
 | **오은진** | <img width="100px" src="https://avatars.githubusercontent.com/u/115154546?v=4"/> <br> [@eunjin4910](https://github.com/Eunjin03) | 취업까지 달려봅시다 🔥🔥🔥 |
-| **최세연** | <img width="100px" src="https://avatars.githubusercontent.com/u/103797536?v=4"/> <br> [@seyeon22](https://github.com/seyeon22) |  |
+| **최세연** | <img width="100px" src="https://avatars.githubusercontent.com/u/103797536?v=4"/> <br> [@seyeon22](https://github.com/seyeon22) | 모두가 취뽀하는 그날까지 |
 | **정다영** | <img width="100px" src="https://avatars.githubusercontent.com/u/119166407?v=4"/> <br> [@dayoung030303](https://github.com/dayoung030303) |  |
 | **임서연** | <img width="100px" src="https://avatars.githubusercontent.com/u/102738436?v=4"/> <br> [@seoyeon0103](https://github.com/seoyeon0103) |  |
 
