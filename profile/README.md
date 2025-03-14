@@ -23,7 +23,7 @@
 | **오은진** | <img width="100px" src="https://avatars.githubusercontent.com/u/115154546?v=4"/> <br> [@eunjin4910](https://github.com/Eunjin03) | 취업까지 달려봅시다 🔥🔥🔥 |
 | **최세연** | <img width="100px" src="https://avatars.githubusercontent.com/u/103797536?v=4"/> <br> [@seyeon22](https://github.com/seyeon22) | 모두가 취뽀하는 그날까지 |
 | **정다영** | <img width="100px" src="https://avatars.githubusercontent.com/u/119166407?v=4"/> <br> [@dayoung030303](https://github.com/dayoung030303) |  |
-| **임서연** | <img width="100px" src="https://avatars.githubusercontent.com/u/102738436?v=4"/> <br> [@seoyeon0103](https://github.com/seoyeon0103) |  |
+| **임서연** | <img width="100px" src="https://avatars.githubusercontent.com/u/102738436?v=4"/> <br> [@seoyeon0103](https://github.com/seoyeon0103) | 취업 성공해서 맥주 한 잔 하는 그 날까지 열심히🔥🔥🔥 |
 
 ---
 
